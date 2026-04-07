@@ -1,0 +1,3 @@
+
+start frontend:- streamlit run app.py
+start backend:- python app.py

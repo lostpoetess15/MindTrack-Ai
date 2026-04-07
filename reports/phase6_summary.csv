@@ -1,0 +1,9 @@
+modality,metric,value
+Audio,accuracy,0.8534
+Audio,macro_f1,0.8252
+Audio,weighted_f1,0.8514
+Audio,auc_roc,0.9576
+Text,accuracy,0.8916
+Text,macro_f1,0.8781
+Text,weighted_f1,0.8906
+Text,auc_roc,0.9676

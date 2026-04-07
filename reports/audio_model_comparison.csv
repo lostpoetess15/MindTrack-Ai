@@ -1,0 +1,5 @@
+Model,CV F1,CV ± std,Test F1,Test Acc,AUC-ROC,Time (s),Winner
+SVM (RBF kernel),0.7978,0.0213,0.8252,0.8534,0.9576,6.0,★
+Gradient Boosting,0.7377,0.0107,0.7632,0.8106,0.9226,134.6,
+Logistic Regression,0.6648,0.0067,0.6966,0.721,0.8889,8.4,
+Random Forest,0.6971,0.0142,0.6848,0.7576,0.9101,5.3,
